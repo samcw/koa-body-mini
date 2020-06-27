@@ -1,0 +1,8 @@
+{
+  "name": "koa-body-mini",
+  "version": "1.0.0",
+  "main": "./src/index.js",
+  "repository": "https://github.com/samcw/koa-body-mini.git",
+  "author": "Samcw",
+  "license": "MIT"
+}
